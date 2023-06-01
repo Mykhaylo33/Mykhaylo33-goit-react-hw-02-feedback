@@ -18,7 +18,7 @@ export const App = () => {
     <FeedbackTitle title='Please leave feedback'style={{marginLeft: 30}}/>
 
     <FeedbackStatistics/>
-
+    
     </div>
   );
 };
